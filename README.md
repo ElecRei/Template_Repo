@@ -5,6 +5,9 @@
 This repo template contains the following directories for your use:
 
 + root
+    + bower_components
+        + jquery
+        + 
     + css
     + imgs
     + js
