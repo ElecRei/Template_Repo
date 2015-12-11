@@ -5,6 +5,6 @@
 This repo template contains the following directories for your use:
 
 + root
-..* css
+..+ source
 + source
 + resources
